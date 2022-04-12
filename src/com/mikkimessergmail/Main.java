@@ -6,4 +6,7 @@ public class Main {
 	    System.out.println("This is the first line!");
         System.out.println("This is the 2econd line!");
     }
+	public static void testMethod(){
+		System.out.println("This is the test method!");
+	}
 }
