@@ -7,7 +7,7 @@ public class Main {
         System.out.println("This is the 2econd line!");
         System.out.println("Test Merge branch");
     }
-	public static void testMethod(){
+	public static void testMethod()
 		System.out.println("This is the prod method!");
 	}
 }
